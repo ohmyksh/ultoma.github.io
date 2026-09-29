@@ -1,0 +1,6 @@
+@inproceedings{song2026multi3ir,
+  title={MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval},
+  author={Seokwon Song and Sohyeon Kim and Gunhee Kim},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year={2026}
+}
